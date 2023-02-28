@@ -1,0 +1,254 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header{
+    padding: 10px 0px;
+}
+
+.header_logo{
+    width: 150px;
+    height: auto;
+}
+
+.header_nav{
+    width: 400px;
+    margin-left: 300px;
+    margin-top: 5px;
+}
+
+.header_nav a{
+    text-decoration: none;
+    color: black;
+    margin: 0px 15px;
+
+}
+
+.header_btn a{
+    margin: 10px 13px;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+
+.header_btn_one {
+    color: black;
+}
+
+.header_btn_two {
+    background-color: rgb(12, 158, 12);
+    color: black;
+}
+
+.header_btn_two:hover {
+    background-color: black;
+    color: white;
+}
+
+.title_one {
+    width: 100px;
+}
+
+.title_one img{
+    width: 1100%;
+    margin: 50%;
+    border-radius: 3.5%;
+}
+
+.support_box img{
+    width: 90%;
+    margin: 5%;
+}
+
+.explorer_box{
+    text-align: center;
+    margin: 260px;
+    font-size: x-large;
+}
+
+.features_box img{
+    width: 90%;
+    margin: 5%;
+}
+
+
+.addition_box_one {
+    width: 40%;
+    margin: auto;
+    padding: 25px;
+    font-size: xx-large;
+}
+
+.addition_box_one a {
+    color: rgb(32, 31, 31);
+    text-decoration: rgb(47, 145, 47);
+    font-size: medium;    
+}
+
+.subraction_box{
+    background-color: rgb(14, 12, 16);
+}
+
+.subraction_box_two {
+    width: 50%;
+    margin: auto;
+    padding: 25px;
+    font-size: xx-large;
+    color: white;
+}
+
+.subraction_box_two h2{
+    color: rgb(15, 135, 15);
+}
+
+.subraction_box_two a {
+    text-decoration: none;
+    color: white;
+    font-size: medium;
+
+}
+
+
+.multiplication_box_one {
+    width: 40%;
+    margin: auto;
+    padding: 25px;
+    font-size: xx-large;
+}
+
+.multiplication_box_one a {
+    color: rgb(32, 31, 31);
+    text-decoration: rgb(47, 145, 47);
+    font-size: medium;    
+}
+
+.division_box_two {
+    width: 40%;
+    margin: auto;
+    padding: 25px;
+    font-size: xx-large;
+}
+
+.division_box_two a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: medium;
+
+}
+
+.interogation_box_one {
+    width: 40%;
+    margin: auto;
+    padding: 25px;
+    font-size: xx-large;
+}
+
+.interogation_box_one a {
+    color: rgb(32, 31, 31);
+    text-decoration: rgb(47, 145, 47);
+    font-size: medium;    
+}
+
+.field{
+    background-color: rgb(190, 242, 192);
+}
+
+.field_box_one {
+    font-size: x-large;
+    padding: 30px 10px;
+}
+
+.field_box_two {
+    width: 30%;
+    margin: auto;
+    padding: 20px 20px;
+    font-size: large;
+    background-color: white;
+}
+
+.layout {
+    background-color: rgb(2, 60, 61);
+    color: white;
+}
+
+
+.layout_one img{
+    width: 50%;
+    margin-left: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    padding:  20px 10px;
+}
+
+.layout a{
+    color: white;
+    text-decoration: none
+}
+
+.layout_one{
+    width 10%;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.layout_two{
+    width: 4%;
+    margin-right: 30px;
+}
+
+.layout_three{
+    width: 6%;
+    margin-left: 30px;
+}
+
+.layout_four{
+    width: 6%;
+    margin-left: 40px;
+    margin-right: 30px;
+}
+
+.layout_five{
+    width: 6%;
+    margin-left: 30px;
+    margin-right: 60px;
+
+}
+
+.layout_one a{
+    font-size: 30px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    padding: auto;
+    background-color: rgb(7, 112, 7);
+    color: black;
+}
+
+.layout_one a:hover{
+    background-color: white;
+    color: black;
+}
+
+.footer{
+    color: black;
+}
+.footer a{
+    margin-left: 100px;
+}
+
+.footer i{
+    margin-left: 30px;
+    font-size: medium;
+}
